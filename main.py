@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 
 class Measurement:
 
@@ -34,6 +36,10 @@ class VisualFieldReader:
 
             self.fields.append(vf)
 
+        for field in self.fields:
+
+            field.plot()
+
 
 class VisualField:
 
@@ -41,10 +47,27 @@ class VisualField:
 
         self.fieldid = fieldid
         self.measurements = []
+        #self.matrix = np.zeros(21, 21)
 
     def add_measurement(self, measurement):
 
         self.measurements.append(measurement)
+
+    def plot(self):
+
+        xValues = []
+        yValues = []
+
+        for measurement in self.measurements:
+
+            xValues.append(measurement.x)
+            yValues.append(measurement.y)
+            plt.scatter([measurement.x], [measurement.y])
+        
+
+        plt.title(self.fieldid)
+        plt.show()
+
 
 
 a = VisualFieldReader()
