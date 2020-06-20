@@ -2,6 +2,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+def normalize_data(data):
+
+    return (data - np.min(data)) / (np.max(data) - np.min(data))
+
 class Measurement:
 
     def __init__(self, x, y, threshold, total_deviation):
@@ -57,12 +61,17 @@ class VisualField:
 
         xValues = []
         yValues = []
+        thresholds = []
 
         for measurement in self.measurements:
 
             xValues.append(measurement.x)
             yValues.append(measurement.y)
-            plt.scatter([measurement.x], [measurement.y])
+            thresholds.append(measurement.threshold)
+
+        thresholds = normalize_data(thresholds)
+
+        plt.scatter(xValues, yValues, c = thresholds)
         
 
         plt.title(self.fieldid)
