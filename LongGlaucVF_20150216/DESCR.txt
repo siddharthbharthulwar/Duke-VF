@@ -1,0 +1,49 @@
+LONGITUDINAL DIABETIC RETINOPATHY FUNDUS IMAGE DATA SET
+
+http://rod-rep.com - Rotterdam Ophthalmic Data Repository
+
+All data and files that are included are owned by the Rotterdam Ophthalmic
+Institute.
+
+* * * * *
+
+This file contains a description of the data set.
+
+The data set contains longitudinal visual field data of 139 glaucoma
+patients. These patients were recruited from the Rotterdam Eye Hospital
+(Rotterdam, The Netherlands). Informed consent was obtained from all
+subjects.
+
+Inclusion criteria:
+
+-   Between 18 and 85 years at time of inclusion.
+-   Glaucoma diagnosis. Two of the following conditions are met: pattern
+    standard deviation significant at p=0.05, abnormal hemifield test
+    result, cluster of ≥3 points depressed at p=0.05 level or 1 point at
+    p=0.01. VF defects must be reproducible on at least one occasion.
+-   Primary open-angle glaucoma, normal tension glaucoma, pigmentary
+    glaucoma, and treated angle closure glaucoma. (Pseudo-exfoliation
+    glaucoma was not included.)
+
+Exclusion criteria:
+
+-   Secondary glaucomas except pigmentary.
+-   Evidence of SAP VF abnormality consistent with other disease.
+-   BCVA > 0.3 (LogMAR).
+-   Refractive error outside -10.0 to +5.0 D range.
+-   Cataract surgery in previous 12 months.
+-   Previous refractive or vitreoretinal surgery.
+-   Evidence of diabetic retinopathy, diabetic macular edema, or other
+    vitreo-retinal disease.
+-   Previous keratoplastic surgery.
+-   Diabetes, leukemia, AIDS, uncontrolled systemic hypertension, multiple
+    sclerosis or (other) life threatening disease.
+
+Both eyes of each participant were included. Visits were scheduled every 6
+months. At each visit, standard clinical ophthalmic examinations were
+performed, including visual acuity, intra-ocular pressure, gonioscopy and
+ophthalmoscopy. At each visit, standard automated perimetry was also
+performed. Visual fields were acquired on a Humphrey Visual Field Analyzer
+(Carl Zeiss Meditec) with a standard white-on-white 24-2 field with the full
+threshold program. The provided data set contains information on the visual
+field and on the individual visual field test locations.

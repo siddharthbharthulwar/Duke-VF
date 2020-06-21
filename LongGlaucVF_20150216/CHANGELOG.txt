@@ -1,0 +1,30 @@
+LONGITUDINAL DIABETIC RETINOPATHY FUNDUS IMAGE DATA SET
+
+http://rod-rep.com - Rotterdam Ophthalmic Data Repository
+
+All data and files that are included are owned by the Rotterdam Ophthalmic
+Institute.
+
+* * * * *
+
+This file contains a description of all changes in the updates of the data
+set.
+
+February 16, 2015
+    Some observations by Angel de la Llama made us realize that there was a
+    problem in the exported, anonymized data, causing a mixup between some
+    IDs of the visual fields (in VFPoints.csv). This affected less than 4%
+    of the visual fields and has now been corrected.
+    Two visual fields were included twice (with the same FIELD_ID).
+    Added issue and page information on paper by Erler et al.
+
+March 20, 2014
+    Added total deviation data for each test location. Added paper by Erler
+    et al.
+
+October 29, 2013
+    Added IOP values Updated issue/volume information on paper by Bryan et
+    al.
+
+September 11, 2013
+    Initial version

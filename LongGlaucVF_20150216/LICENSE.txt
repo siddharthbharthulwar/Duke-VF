@@ -1,0 +1,160 @@
+License Agreement
+=================
+
+ 
+
+LICENSE AGREEMENT
+
+between
+
+The Rotterdam Ophthalmic Institute
+
+and
+
+User
+
+ 
+
+The Rotterdam Ophthalmic Institute (hereinafter: ROI) intends to make
+certain anonymized data sets concerning, in short, eye measurements publicly
+available in order to facilitate scientific research.
+
+Each data set is to be considered a database in the sense of Directive
+96/9/EC. ROI is the maker of these databases. The ROI offers these data sets
+free of charge under this License Agreement.
+
+By downloading Data one becomes a User and agrees with the terms of the
+License Agreement.
+
+ 
+
+Definitions
+-----------
+
+ROI
+    The Rotterdam Ophthalmic Institute, a private company under Dutch law,
+    based at Schiedamse Vest 160D, 3011 BH Rotterdam, The Netherlands
+
+User
+    The single natural person who, after registration, has downloaded data
+    or the legal person, such as a foundation or a company, whose employee,
+    intern or any other person affiliated with the legal person, has, after
+    registration, downloaded the data.
+
+Data
+    The data sets which have been downloaded. These data sets are a database
+    in terms of Directive 96/9/EC on the legal protection of databases. The
+    ROI is the maker of the Data in terms of mentioned Directive.
+
+Third Party
+    Any party other than ROI and User.
+
+Study Participants
+    The patients or volunteers in observational studies, whose anonymized
+    eye measurement data are embedded in the Data.
+
+Incidental Findings
+    Findings made in the course of the research which would have been or
+    still could be of particular relevance for the treatment of the Study
+    Participants.
+
+Portal
+    The site of the ROI where prospective Users can register and from which
+    the Data can be downloaded.
+
+ 
+
+Terms of the License
+--------------------
+
+1.  The ROI grants User a non exclusive and non transferable license to use
+    the Data for research. Transfer of ‘ownership’ of the Data to User is
+    neither intended or achieved by this license.
+2.  The Data shall be used for research purposes only. User shall respect
+    the intention of the ROI to make the Data available as a contribution to
+    the scientific commons and use the Data accordingly. Commercial use of
+    the Data is not permitted under this License Agreement.
+3.  The ROI does not make any representations or extend any warranties of
+    any kind, either expressed or implied, in regards to the fitness of Data
+    for the intended research or for any other purpose.
+4.  The Data are anonymous regarding the Study Participants and are intended
+    to remain anonymous. The ROI has taken the necessary precautions to
+    secure this anonymity and guarantees that according to the ethical and
+    regulatory conditions to which the ROI is subject, the Data can be
+    lawfully made available for research under the terms of this license
+    agreement.
+5.  It is the sole responsibility of User whether User may, under the
+    regulatory conditions applicable to User, use the Data for research. The
+    ROI cannot be held accountable if User has used the Data for research
+    while it has not met all the necessary regulatory requirements
+    applicable to User for such use.
+6.  To the full extent permitted by applicable law in no event will the ROI
+    be liable to the User or any Third Party on any legal theory (including,
+    without limitation, negligence) for any loss or damage whatsoever, which
+    may result from downloading, using the Data for research, publication of
+    the results of the research or any other action which User may perform
+    with the Data. If because of any action with the Data, such as, but not
+    limited to, transmission, storage, searches on the Data, release of the
+    Data or publication of the results of the research, the ROI would be
+    held liable to a Third Party, User will indemnify the ROI for any
+    damages which may result from this liability, unless it would be
+    established that the ROI has acted grossly negligent when making the
+    Data available for research through the Portal.
+7.  In the context of its research User can combine the Data with other
+    data, which User may lawfully use for research. However, User will
+    refrain from any activities, such as linking the Data with other data,
+    whether publicly available or not, by which the identity of the Study
+    Participants could in theory be retrieved.
+8.  User maintains policies concerning confidentiality of research data and
+    scientific integrity and has taken all necessary administrative,
+    technical and physical safeguards to preserve the integrity and
+    confidentiality of the Data and to prevent non-permitted or violating
+    use or disclosure of the Data.
+9.  User may not in any way transfer the Data to a Third Party, without the
+    explicit written authorisation of the ROI, unless such transfer would be
+    part of the standard procedures for handling data by User, such as
+    making use of an ‘applied service provider’, or another ‘processor’ in
+    terms of Directive 95/46/EC. It should be contractually secured that the
+    previous section applies to this processor correspondingly. If, in the
+    context of the research project, data from various sources need to be
+    combined at a Third Party, the ROI will not unreasonably withhold this
+    authorisation but may state further conditions, such as the extension of
+    the conditions of this license agreement to that third party.
+10. If, in the context of the research project, User is of the opinion to
+    have found Incidental Findings, User shall inform the ROI as soon as
+    possible about such findings through the contact address at the portal.
+    Given the anonymisation procedures the ROI cannot in any way guarantee
+    that such Incidental Findings, even if they would be still relevant for
+    the Study Participants concerned, can be linked to those Study
+    Participants and be used to alter or improve their treatment. Such
+    information about Incidental Findings will nevertheless be valuable
+    input for the quality assurance procedures of the ROI.
+11. Any information about Incidental Findings will be considered
+    confidential information by User and shall not be disclosed to any Third
+    Party unless:
+    -   This information is already in the public domain, or after the date
+        of this License Agreement becomes part of the public domain, other
+        than as a result of an unauthorised disclosure by User;  
+    -   User is required to disclose this information by a Court order. The
+        ROI will be notified as soon as possible about any request of
+        competent authorities or others for the confidential information
+        which may result in such an order and will be involved in the
+        defense against such a request.
+
+12. User can contact the ROI if User needs additional information about the
+    Data. The ROI will try to answer such questions insofar as reasonable,
+    considering the efforts which the ROI must make in this respect and the
+    anonymous nature of the Data. If the questions are more complex, the ROI
+    will require a joint research agreement between the ROI and User first
+    before any further steps are taken.  
+13. The ROI must be acknowledged in all publications, partially or wholly
+    based on the Data, by formally citing at least one of the papers that
+    are related to the Data. A list of these papers is available from the
+    portal. The ROI welcomes a copy of such publications and may add a
+    reference to it at the portal.
+14. For the avoidance of doubt: the terms of this license agreement apply to
+    any employee, intern, co-worker, or any other person which User has
+    given access to the Data under the terms of this agreement.
+15. The performance of this agreement shall be governed by and shall be
+    subject to the law of the Netherlands. Any disputes will be brought
+    before the competent Court in the ‘arrondissement’ (district) Rotterdam.

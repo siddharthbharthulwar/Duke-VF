@@ -19,7 +19,7 @@ class VisualFieldReader:
 
     def __init__(self):
         
-        self.fieldpointspath = r"D:\Documents\School\2020-21\GlaucomaNet\RotterdamVisualFields\LongGlaucVF_20150216\VFPoints.csv"
+        self.fieldpointspath = r"LongGlaucVF_20150216\VFPoints.csv"
         self.fieldpoints = pd.read_csv(self.fieldpointspath)
         self.parsecsv()
 
@@ -71,12 +71,10 @@ class VisualField:
 
         thresholds = normalize_data(thresholds)
 
-        plt.scatter(xValues, yValues, c = thresholds)
+        plt.scatter(xValues, yValues, c = thresholds, cmap = "Blues")
         
 
         plt.title(self.fieldid)
         plt.show()
-
-
 
 a = VisualFieldReader()

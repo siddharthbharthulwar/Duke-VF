@@ -1,0 +1,75 @@
+LONGITUDINAL DIABETIC RETINOPATHY FUNDUS IMAGE DATA SET
+
+http://rod-rep.com - Rotterdam Ophthalmic Data Repository
+
+All data and files that are included are owned by the Rotterdam Ophthalmic
+Institute.
+
+* * * * *
+
+This file contains a description of all of the fields in the data files.
+
+Patients.csv
+------------
+
+STUDY_ID
+    Study patient identifier
+SEX
+    Gender of the patient (M/F)
+
+VisualFields.csv
+----------------
+
+STUDY_ID
+    Study patient identifier (links to Patients.csv)
+FIELD_ID
+    Visual field identifier
+SITE
+    Eye (OS/OD)
+MD
+    Mean deviation (dB)
+AGE
+    Age of patient at time of visit (days)
+IOP
+    Intraoccular pressure (mmHg; ‘-1’ if not available)
+
+VFPoints.csv
+------------
+
+FIELD_ID
+    Visual field identifier (links to VisualFields.csv)
+X
+    X-coordinate (degrees)
+Y
+    Y-coordinate (degrees)
+THRESHOLD
+    Threshold measurement (dB; ‘<0’ is encoded as -1)
+TOTAL_DEVIATION_VALUE:
+    Total deviation value (dB)
+
+Bryan2013.csv
+-------------
+
+This file contains references to the visual fields that were included in the
+paper:
+
+S.R. Bryan, K.A. Vermeer, P.H.C. Eilers, H.G. Lemij and E.M.E.H. Lesaffre.
+Robust and Censored Modeling and Prediction of Progression in Glaucomatous
+Visual Fields. Invest Ophthalmol Vis Sci. 2013; 54(10):6694-6670.
+
+FIELD_ID
+    Visual field identifier (links to VisualFields.csv)
+
+Erler2014.csv
+-------------
+
+This file contains references to the visual fields that were included in the
+paper:
+
+N.S. Erler, S.R. Bryan, P.H.C. Eilers, E.M.E.H Lesaffre, H.G. Lemij and K.A.
+Vermeer. Optimizing structure-function relationship by maximizing
+correspondence between glaucomatous visual fields and mathematical retinal
+nerve fiber models. Invest Ophthalmol Vis Sci. 2014;55(4):2350-2357.
+
+FIELD_ID
+    Visual field identifier (links to VisualFields.csv)
